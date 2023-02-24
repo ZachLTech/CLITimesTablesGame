@@ -13,7 +13,7 @@
 
 - **Python**
 
-## Installation :disk:
+## Installation :floppy_disk:
 
 - If you want to try this simple game out yourself, just clone the repository and run *main.py* for a CLI version
 - I plan to make this a web based game in the near future to which I'll add the link here
