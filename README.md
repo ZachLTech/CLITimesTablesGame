@@ -1,24 +1,24 @@
-## Table of contents
+## Table of contents :book:
 
 - Description
 - Requirements
 - Installation
 
-## Description
+## Description :scroll:
 
     This is a (as of now) CLI based game that prompts 3 different time table modes (1-5's, 1-10's, and 1-15's) that gives you random multiplication questions to answer as fast as possible
     - The goal of this program is to build better muscle memory for your multiplication tables (if you don't already know them)
 
-## Requirements
+## Requirements :wrench:
 
 - **Python**
 
-## Installation
+## Installation :disk:
 
 - If you want to try this simple game out yourself, just clone the repository and run *main.py* for a CLI version
 - I plan to make this a web based game in the near future to which I'll add the link here
 
-## TODO (Eventually)
+## TODO (Eventually) :eyes:
 
 - Make an optional timer per question
 - have some sort of congratulations per so many questions correct
