@@ -8,6 +8,8 @@
 
     This is a (as of now) CLI based game that prompts 3 different time table modes (1-5's, 1-10's, and 1-15's) that gives you random multiplication questions to answer as fast as possible
     - The goal of this program is to build better muscle memory for your multiplication tables (if you don't already know them)
+    - Made entirely with python
+
 
 ## Requirements :wrench:
 
