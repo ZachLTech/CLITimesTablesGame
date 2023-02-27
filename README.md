@@ -1,3 +1,5 @@
+# CLI Times Tables Game
+
 ## Table of contents :book:
 
 - Description
