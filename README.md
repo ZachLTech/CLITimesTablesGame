@@ -16,6 +16,7 @@
 ## Requirements :wrench:
 
 - **Python**
+    - Library: inputimeout
 
 ## Installation :floppy_disk:
 

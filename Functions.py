@@ -1,5 +1,4 @@
 import random
-import time
 from TimesTables import MultiplesQsAndAs
 from inputimeout import inputimeout
 
