@@ -1,5 +1,4 @@
 from Functions import refresh, Natural, All, refreshT, NaturalT, AllT
-import sys
 
 class Game():
 
@@ -17,7 +16,6 @@ class Game():
             return -1
         else:
              print("That's not an option. Retry")
-
     def NoTime():
         Multiplesss = input("\n\nWhat multiples do you want to learn? \n 1. Refresh (2's through 5's Tables) \n 2. Natural (2's through 10's Tables) \n 3. All (2's through 15's Tables)\n Or enter -1 to quit\n > ")
 
